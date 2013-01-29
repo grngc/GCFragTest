@@ -4,5 +4,15 @@
     <string name="app_name">GCFragTest</string>
     <string name="hello_world">Testing Suport v4 Fragments</string>
     <string name="menu_settings">Settings</string>
+    <string name="tarnavamare_logo">TarnavaMare Logo</string>
+    <string name="click_me">Click me!</string>
+    <string name="simple_info">Information!</string>
+    <string name="simple_message">Frame-urile merg intr-un final !!!</string>
+    <string name="continue_frames">More!</string>
+    <string name="close">Close</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="title_activity_news_fragments">NewsFragmentsActivity</string>
+    <string name="article_detailed_view">Article Detailed View</string>
+    <string name="articles_headlines_view">Articles Headlines View</string>
 
 </resources>
